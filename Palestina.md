@@ -23,5 +23,8 @@ git commit
 - [ ] B
 - [ ] C
 
+~~Tachado~~
+
+
 
 
