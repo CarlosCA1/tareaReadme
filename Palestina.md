@@ -19,6 +19,9 @@ git commit
 
 [Enlace](www.google.com)
 
+- [x] A
+- [ ] B
+- [ ] C
 
 
 
