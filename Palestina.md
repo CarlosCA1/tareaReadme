@@ -25,6 +25,8 @@ git commit
 
 ~~Tachado~~
 
+<!-- Esto no aparece -->
+
 
 
 
