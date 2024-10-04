@@ -17,7 +17,6 @@ git commit
 * b
 * c
 
-[Enlace](www.google.com)
 
 - [x] A
 - [ ] B
@@ -31,6 +30,7 @@ git commit
     - Primer elemento
         - Segundo elemento
 
-![Imagen](./img/paisaje-og.webp)
 Hola
 ![Imagen](./img/paisaje-og.webp)
+
+Hola
